@@ -36,7 +36,7 @@ namespace VoLeAnhTai_KTLT_Ch7_Cau1
             Console.WriteLine();
             xuatMang(Arr);
             
-            //Cau C
+            //Cau C (Xuat cac so chan trong mang ra man hinh)
             Console.WriteLine();
             xuatChan(Arr);
             
