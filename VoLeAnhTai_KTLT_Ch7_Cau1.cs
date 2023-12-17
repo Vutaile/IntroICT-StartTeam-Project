@@ -164,7 +164,7 @@ namespace VoLeAnhTai_KTLT_Ch7_Cau1
             }
         }
 
-        //Ham kiem tra snt
+        //Ham kiem tra snt (So nguyen to la so nguyen >=2 và chi chia het cho 1 va chinh no)
         public static bool kiemTraSNT(int Num)
         {
             bool KetQua = true;
